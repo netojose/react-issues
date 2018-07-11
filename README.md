@@ -9,6 +9,9 @@ Display [react](https://reactjs.org/) issues on [github](https://github.com/face
 - [Create react app](https://github.com/facebook/create-react-app)
 - [Semantic UI React](https://react.semantic-ui.com/introduction)
 
+## Online demo
+https://react-issues.herokuapp.com/
+
 ## Install instructions
 * `git clone git@github.com:netojose/react-issues.git`
 * `cd react-issues`
