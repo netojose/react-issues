@@ -1,0 +1,5 @@
+.StatusFilter.ui.form .field {
+    clear: none;
+    display: inline;
+    padding: 0 10px;
+}
